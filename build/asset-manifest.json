@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.5772c2a7.css",
-    "main.js": "/static/js/main.de56d527.js",
+    "main.css": "/static/css/main.e0cb516b.css",
+    "main.js": "/static/js/main.02ada8ac.js",
     "static/js/787.cda612ba.chunk.js": "/static/js/787.cda612ba.chunk.js",
-    "static/media/22919.jpg": "/static/media/22919.d40354ef90ba78712047.jpg",
-    "static/media/HarryP-MVZ6w.ttf": "/static/media/HarryP-MVZ6w.a65869c0c1a4b3d4fcfc.ttf",
+    "static/media/back10.jpg": "/static/media/back10.bfd1459ac8fd721a3959.jpg",
+    "static/media/FreakartPersonalUseBold-vmOl7.ttf": "/static/media/FreakartPersonalUseBold-vmOl7.9389cc0a099c1294a93b.ttf",
     "index.html": "/index.html",
-    "main.5772c2a7.css.map": "/static/css/main.5772c2a7.css.map",
-    "main.de56d527.js.map": "/static/js/main.de56d527.js.map",
+    "main.e0cb516b.css.map": "/static/css/main.e0cb516b.css.map",
+    "main.02ada8ac.js.map": "/static/js/main.02ada8ac.js.map",
     "787.cda612ba.chunk.js.map": "/static/js/787.cda612ba.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5772c2a7.css",
-    "static/js/main.de56d527.js"
+    "static/css/main.e0cb516b.css",
+    "static/js/main.02ada8ac.js"
   ]
 }
