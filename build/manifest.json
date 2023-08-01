@@ -3,17 +3,17 @@
   "name": "Fmemes",
   "icons": [
     {
-      "src": "850f99b2-5837-4854-b2c4-21d9ae922aae-removebg-preview.png",
+      "src": "favicon.ico",
       "sizes": "64x64 32x32 24x24 16x16",
       "type": "image/x-icon"
     },
     {
-      "src": "850f99b2-5837-4854-b2c4-21d9ae922aae-removebg-preview.png",
+      "src": "favicon.ico",
       "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "850f99b2-5837-4854-b2c4-21d9ae922aae-removebg-preview.png",
+      "src": "favicon.ico",
       "type": "image/png",
       "sizes": "512x512"
     }
