@@ -2,6 +2,16 @@ A web-based platform where players in a game room can participate in a fun and e
 
 Each player will be presented with a random GIF and will have the opportunity to come up with a humorous caption for it. After the captioning round, all players will have the chance to rate each other's captions based on their level of humor. [Instagram Post](https://www.instagram.com/p/CvbxuZ5xlvo/?img_index=1)
 
+FrontEnd:
+https://github.com/ItsPalash13/memeReact
+
+BackEnd Server 1:
+https://github.com/ItsPalash13/memeUserServer
+
+BackEnd Server 2:
+https://github.com/ItsPalash13/memeGameServer
+
+
 <div style="display: flex; gap: 10px;">
   <img src="https://github.com/user-attachments/assets/7028af92-ddb5-4aea-a591-78092cec1edd" alt="Screenshot 2024-12-26 182433" width="500">
   <img src="https://github.com/user-attachments/assets/2b112082-ba64-4cdf-9e1e-181b348bb7de" alt="Screenshot 2024-12-26 183041" width="500">
