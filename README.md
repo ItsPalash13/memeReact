@@ -1,6 +1,6 @@
 A web-based platform where players in a game room can participate in a fun and engaging activity of captioning random GIFs. 
 
-Each player will be presented with a random GIF and will have the opportunity to come up with a humorous caption for it. After the captioning round, all players will have the chance to rate each other's captions based on their level of humor.[Instagram Post](https://www.instagram.com/p/CvbxuZ5xlvo/?img_index=1)
+Each player will be presented with a random GIF and will have the opportunity to come up with a humorous caption for it. After the captioning round, all players will have the chance to rate each other's captions based on their level of humor. [Instagram Post](https://www.instagram.com/p/CvbxuZ5xlvo/?img_index=1)
 
 <div style="display: flex; gap: 10px;">
   <img src="https://github.com/user-attachments/assets/7028af92-ddb5-4aea-a591-78092cec1edd" alt="Screenshot 2024-12-26 182433" width="500">
